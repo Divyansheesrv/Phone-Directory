@@ -1,6 +1,6 @@
 # Phone-Directory
 
-~~
+~
 First Create a schema as swing_demo create database swing_demo;
 under the schema create a table 
 
@@ -16,4 +16,4 @@ CREATE TABLE account
 Eclipse IDE
 MYSQL for Database
 JDBC Connector Drivers
-~~
+~
